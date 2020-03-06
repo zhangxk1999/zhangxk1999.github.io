@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangxk1999.github.io/</id>
     <title>zhangxk&apos;s blog</title>
-    <updated>2020-03-02T16:55:50.217Z</updated>
+    <updated>2020-03-06T15:45:10.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangxk1999.github.io/"/>
     <link rel="self" href="https://zhangxk1999.github.io/atom.xml"/>
@@ -10,4 +10,18 @@
     <logo>https://zhangxk1999.github.io/images/avatar.png</logo>
     <icon>https://zhangxk1999.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, zhangxk&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[pycharm使用]]></title>
+        <id>https://zhangxk1999.github.io/post/pycharm-shi-yong/</id>
+        <link href="https://zhangxk1999.github.io/post/pycharm-shi-yong/">
+        </link>
+        <updated>2020-03-06T15:39:21.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="环境">环境</h1>
+<h2 id="pycharm新建项目new-environment-和-existing-interpreter的区别">Pycharm新建项目，new environment 和 existing interpreter的区别</h2>
+<figure data-type="image" tabindex="1"><img src="https://zhangxk1999.github.io//post-images/1583509493156.png" alt="" loading="lazy"></figure>
+<p>New Environment部分是选择新建项目所依赖的环境[便于管理不同项目]<br>
+base interpreter 理解为在这之上进行添加新的包等操作</p>
+<p>existing interpreter关联本地已经存在的解释器[可以减少占用，并且不需要再次去下载包]</p>
+]]></content>
+    </entry>
 </feed>
