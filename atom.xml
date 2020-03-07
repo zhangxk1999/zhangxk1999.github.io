@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangxk1999.github.io/</id>
     <title>zhangxk&apos;s blog</title>
-    <updated>2020-03-06T17:18:56.248Z</updated>
+    <updated>2020-03-07T15:10:48.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangxk1999.github.io/"/>
     <link rel="self" href="https://zhangxk1999.github.io/atom.xml"/>
@@ -22,6 +22,9 @@
 <p>New Environment部分是选择新建项目所依赖的环境[便于管理不同项目]<br>
 base interpreter 理解为在这之上进行添加新的包等操作</p>
 <p>existing interpreter关联本地已经存在的解释器[可以减少占用，并且不需要再次去下载包]</p>
+<h1 id="其他">其他</h1>
+<h2 id="vscode使用jupyter">VScode使用jupyter</h2>
+<p>Ctrl+Shift+P输入 Create Jupyter 创建一个新的文件</p>
 ]]></content>
     </entry>
 </feed>
